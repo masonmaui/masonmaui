@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   <summary>Events I have taken part in 🎉</summary>
   - Bebras 2020 <br>
   - Hacktober fest 2021 <br>
+  - Bebras 2021 <br>
 </details>
