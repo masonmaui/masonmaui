@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a tower defence game in c# for my a level computer science course
-- 🌱 I’m currently learning c#, html, css, javascript and python.
+- 🔭 I’m currently studying for a degree in computer science at Swansea University and i am learning Java
+- 🌱 I’m currently learning c#, html, css, javascript, python and java.
 
 
 <details>
