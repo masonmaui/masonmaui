@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently studying for a degree in computer science at Swansea University and i am learning Java
+- 🔭 I’m currently studying for a degree in computer science at Swansea University in my second year.
 - 🌱 I’m currently learning C#, HTML, CSS, Javascript, Python and Java.
 
 
