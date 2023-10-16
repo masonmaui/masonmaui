@@ -1,4 +1,4 @@
-### Hey there <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)" width="25px">
+### Hey there 👋 
 
 <!--
 **masonmaui/masonmaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
