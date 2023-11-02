@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on a Discord bot for translating text and learning web development.
 - 🌱 I’m currently learning C#, HTML, CSS, Javascript, Python, and Java.
-- 🎓 Studying my second year Computer science (BEng).
+- 🎓 Studying my second year Computer science (bEng).
 
 
 <details>
