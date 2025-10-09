@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 ---
 <details>
   <summary> Jobs </summary>
-  - Amazon - FEE intern (Veeqo) - github.com/emerymas
+  
+  - Amazon - FEE intern (Veeqo) - [Work github](https://github.com/emerymas)
 </details>
+
 
 --- 
 <details>
