@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I'm currently working on a Discord bot for translating text and learning web development.
+- 🔭 I'm currently working on my dissertation project.
 - 🌱 I’m currently learning React, Tailwind, and Ruby.
 - 🎓 Studying my third year Computer Science (bEng).
 
